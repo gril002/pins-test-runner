@@ -1,0 +1,5 @@
+logical
+integer
+string
+
+logical string integer integer logical
